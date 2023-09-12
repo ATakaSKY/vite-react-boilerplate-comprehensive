@@ -340,3 +340,8 @@ A simplified list can be found in the [Overview](#overview) section.
 - [ts-reset](https://github.com/total-typescript/ts-reset#readme)
 - [Faker](https://fakerjs.dev/)
 - [Dayjs](https://day.js.org/en/)
+
+### Release Please
+
+https://github.com/googleapis/release-please
+
