@@ -42,6 +42,14 @@ const defaultData: Array<Person> = [
 		status: "Complicated",
 		progress: 10,
 	},
+	{
+		firstName: "new",
+		lastName: "person",
+		age: 45,
+		visits: 20,
+		status: "Complicated",
+		progress: 10,
+	},
 ];
 
 const columnHelper = createColumnHelper<Person>();
